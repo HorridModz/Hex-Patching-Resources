@@ -402,7 +402,7 @@ I made the simple IEEE 754 converter tool for ARM AndnixSH/IEEE-754-Converter
 Type any float value you want and get the hexadecimal for Little-endian
 (You can also use decimal to hex convert)
 movt r0, #0xHEX HERE
-bx lr -- Return
+bx lr -- This is for return
 Then use ARM To HEX Converter Online to convert ARM instruction to hex bytes
 
 Example number 1 is 0000803F (Little-endian), return like this
