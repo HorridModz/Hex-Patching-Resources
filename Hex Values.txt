@@ -1,4 +1,4 @@
-List of arm hex codes by HorridModz (User123456789#6424).
+List of arm hex values by HorridModz (User123456789#6424).
 These hex values are copy and pasted from several forums. I forgot who made each one, so credit is missing. Very sorry. I believe one was by Slice-Cast on polarmods.com.
 
 List 1:
@@ -124,8 +124,6 @@ FF FF = Value of 65535 = Highest value 4 character hex code
 00 00 A0 E3 1E FF 2F E1 = Value 0 Also = False used for bool
 
 12 07 A0 E3 1E FF 2F E1 = high value for money
-
-
 
 64bit:
 
