@@ -1,4 +1,4 @@
-Wanring: Some of these may be incorrect as they are untested!!!
+Warning: Some of these may be incorrect as they are untested!!!
 
 List of arm hex values by HorridModz (User123456789#6424).
 These hex values are copy and pasted from several forums. I forgot who made each one, so credit is missing. Very sorry. I believe one was by Slice-Cast on polarmods.com.
